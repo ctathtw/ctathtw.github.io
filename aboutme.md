@@ -1,4 +1,4 @@
-t---
+---
 layout: page
 title: Computational Thinking
 subtitle: Ziele
