@@ -18,7 +18,9 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - HTW Berlin: "https://htw-berlin.de"
+    - DMXControl: "https://dmxcontrol.org"
+  Author's home: "https://dmxcontrol-projects.org"
 
 # --- Logo --- #
 
@@ -41,7 +43,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
+  github: ctathtw
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
@@ -81,7 +83,7 @@ share-links-active:
 url-pretty: "ctathtw.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 100
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -193,7 +195,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
