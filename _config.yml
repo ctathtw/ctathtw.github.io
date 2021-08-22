@@ -20,11 +20,15 @@ navbar-links:
     - HTW Berlin: "https://htw-berlin.de"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-
   Author's projects: 
     - DMXControl-Projects: "https://dmxcontrol-projects.org"
     - DMXControl: "https://dmxcontrol.org"
-    
+  Resume: "resume.pdf"
+  Slide Decks:
+    - RStudioConf 2020: "rstudioconf2020"
+    - RLadiesMeetup 2018: "MeetUpSlides"
+    - TidyverseShower 2018: "TidyverseShower"
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
