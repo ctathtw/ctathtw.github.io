@@ -1,5 +1,10 @@
-
+---
+layout: page
+title: Abstraktion und Generalisierung
+subtitle: Ziele
+---
 (still in progress)
+
 ## Abstraktion und Generalisierung
 
 ### Konzept
