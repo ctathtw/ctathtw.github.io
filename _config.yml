@@ -16,8 +16,8 @@ author: Frank Burghardt
 navbar-links:
   Home: "home_info"
   Übungen: 
-    - "_pages/Uebungen"
-    - "_pages/Abstraktion"
+    - _pages: "Uebungen"
+    - _pages: "Abstraktion"
   Resources:
     - HTW Berlin: "https://htw-berlin.de"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
