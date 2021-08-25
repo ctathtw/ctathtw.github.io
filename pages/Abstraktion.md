@@ -17,3 +17,5 @@ Bei der Abstraktion werden die relevanten Informationen identifiziert und extrah
 Das Problem wird aus einem gewissen Abstand betrachtet und über Details hinweggeschaut. Dieser Schritt ist beispielsweise nötig, um das Problem in seiner einfachsten möglichen Form zu formulieren, in der nur noch die wirklich relevanten Informationen berücksichtigt werden.
 
 ![Figur Abstraktion](https://ctathtw.github.io/images/AbstraktionFig.jpg)
+
+(source of images still missing)
