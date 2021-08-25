@@ -23,7 +23,7 @@ navbar-links:
     - Algorithmus: "/pages/Algorithmus"
     - Übungen: "/pages/Uebungen"
   Resources:
-    - Notationen: "https://ctathtw.github.io/resume.pdf"
+    - Notationen: "/docs/NotationenAlg.pdf"
     - HTW Berlin: "https://htw-berlin.de"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
