@@ -23,7 +23,7 @@ navbar-links:
     - Algorithmus: "/pages/Algorithmus"
     - Übungen: "/pages/Uebungen"
   Resources:
-    - Notationen: "/docs/NotationenAlg.pdf"
+    - Notationen: "NotationenAlg.pdf"
     - HTW Berlin: "https://htw-berlin.de"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -247,6 +247,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
