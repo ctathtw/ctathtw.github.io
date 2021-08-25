@@ -2,7 +2,12 @@
 layout: page
 title: Abstraktion und Generalisierung
 subtitle: Ziele
----
+show-avatar: false
+share-img: "/_images/AbstraktionFig.JPG"
+--- 
+
+<center><img src="/_images/AbstraktionFig.JPG" width="50%" height="50%"/></center>
+
 (still in progress)
 
 ## Abstraktion und Generalisierung
