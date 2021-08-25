@@ -15,14 +15,18 @@ author: Frank Burghardt
 
 navbar-links:
   Home: "home_info"
-  Übungen: 
-    - Übungen: "/pages/Uebungen"
+  Inhalt:    
     - Abstraktion: "/pages/Abstraktion"
+    - Dekomposition: "/pages/Dekomposition"
+    - Mustererkennung: "/pages/Mustererkennung"
+    - Verallgemeinerung: "/pages/Verallgemeinerung"
+    - Algorithmus: "/pages/Algorithmus"
+    - Übungen: "/pages/Uebungen"
   Resources:
     - HTW Berlin: "https://htw-berlin.de"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    -  Resume: "resume.pdf"
+    - Resume: "resume.pdf"
   Author's projects: 
     - DMXControl-Projects: "https://dmxcontrol-projects.org"
     - DMXControl: "https://dmxcontrol.org"
