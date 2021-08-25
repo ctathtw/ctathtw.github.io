@@ -17,7 +17,7 @@ navbar-links:
   Home: "home_info"
   Übungen: 
     - Übungen: "https://ctathtw.github.io/_pages/Uebungen"
-    - Abstraktion: "https://ctathtw.github.io/_pages/Abstraktion"
+    - Abstraktion: "https://ctathtw.github.io/_pages/Abstraktion.md"
   Resources:
     - HTW Berlin: "https://htw-berlin.de"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
