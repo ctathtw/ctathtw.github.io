@@ -49,7 +49,5 @@ Ein Prozess besteht aus einer Reihe von Schritten, die ausgeführt werden müsse
 * In der Mathematik können wir eine Zahl wie 256,37 wie folgt zerlegen: 2*10<sup>2</sup>+5*10<sup>1</sup>+6*10<sup>0</sup>+3*10<sup>-1</sup>+7*10<sup>-2</sup>
 
 
-![Abstraktion](/images/AbstraktionFig.jpg)
-
 [comment]: # (This actually is the most platform independent comment)
 [comment]: # ( <center><img src="/images/AbstraktionFig.jpg" width="50%" height="50%"/></center> )
