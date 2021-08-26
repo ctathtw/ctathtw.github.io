@@ -3,7 +3,7 @@ layout: page
 title: Abstraktion
 subtitle: Ziele
 show-avatar: false
-share-img: "/images/AbstraktionFig.JPG"
+share-img: "/images/*"
 --- 
 
 
