@@ -32,7 +32,7 @@ Die Vorteile liegen darin, dass diese Konstrukte ein Programm besser strukturier
 
 Nicht nur Gegenstände, sondern auch Aufgaben, Prozesse und Algorithmen können dekomponiert werden. Die folgende Abbildung zeigt eine mögliche Dekomposition des Vorganges der Zubereitung einer Mahlzeit:
 
-<center><img src="/images/Spirographen.jpg" width="50%" height="50%"/></center>
+<center><img src="/images/Spirographen.JPG" width="50%" height="50%"/></center>
 
 Abb.:Spirographen als Beispiel der Dekomposition (https://www.geeksforgeeks.org/print-a-spirograph-using-turtle-in-python/)
 
