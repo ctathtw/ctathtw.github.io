@@ -4,8 +4,8 @@ title: Abstraktion und Generalisierung
 subtitle: Ziele
 show-avatar: false
 share-img: "/images/AbstraktionFig.JPG"
-share-img:"/images/Spirographen.jpg"
-share-img:"/images/DecompositionMeal.jpg"
+share-img:"/images/Spirographen.JPG"
+share-img:"/images/DecompositionMeal.JPG"
 --- 
 
 
@@ -50,3 +50,5 @@ Ein Prozess besteht aus einer Reihe von Schritten, die ausgeführt werden müsse
 * Wenn wir ein Kursprojekt in mehrere Schritte unterteilen, zerlegen wir die Aufgabe in kleinere, besser verwaltbare Unteraufgaben, ähnliche gilt für das Anlegen einzelner Kapitel in einem Dokument.
 * In der Mathematik können wir eine Zahl wie 256,37 wie folgt zerlegen: 2*102+5*101+6*100+3*10-1+7*10-2
 
+
+![Abstraktion](/images/images/AbstraktionFig.jpg)
