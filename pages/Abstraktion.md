@@ -29,6 +29,8 @@ Abstraktion im Computational Thinking ist eine Technik, bei der wir einzelne Tei
 Durch Abstraktion können wir Teile eines Systems allgemein darstellen, einschließlich Variablen, Konstanten, Schlüsselprozesse, wiederholte Prozesse, Eingaben und Ausgaben.
 Dieser methodische Ansatz gipfelt dann in der schrittweisen Implementierung und Vervollständigung der Problemlösung wie wir es aus dem Scrum-Prozess kennen.
 
+Dieser methodische Ansatz gipfelt dann in der schrittweisen Implementierung und Vervollständigung der Problemlösung wie wir es aus dem Scrum-Prozess kennen.
+
 Die Studierenden müssen also ein Gefühl für folgende Dinge entwickeln lernen:
 
 *	Identifizieren von Informationen, die zur Lösung eines Problems benötigt werden. 
@@ -38,6 +40,7 @@ Die Studierenden müssen also ein Gefühl für folgende Dinge entwickeln lernen:
 ### Beispiele
 
 Wir verwenden Abstraktion, um Dinge zu organisieren: 
+
 *	 Eine Weltkarte ist eine Abstraktion der Erde in Bezug auf Längen- und Breitengrad und hilft uns, den Ort und die Geographie eines Ortes zu beschreiben. 
 *	Pictogramme an einem Gang in einem Geschäft sind eine Abstraktion der in diesem Gang verfügbaren Gegenstände 
 *	Wenn wir einen Buchbericht schreiben, fassen wir nur das Thema oder die Schlüsselaspekte des Buches zusammen und diskutieren es. Es ist Abstraktion. 
