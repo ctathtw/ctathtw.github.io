@@ -30,10 +30,10 @@ navbar-links:
   Author's projects: 
     - DMXControl-Projects: "https://dmxcontrol-projects.org"
     - DMXControl: "https://dmxcontrol.org"
-  Slide Decks:
-    - RStudioConf 2020: "rstudioconf2020"
-    - RLadiesMeetup 2018: "MeetUpSlides"
-    - TidyverseShower 2018: "TidyverseShower"
+  #Slide Decks:
+  #  - RStudioConf 2020: "rstudioconf2020"
+  #  - RLadiesMeetup 2018: "MeetUpSlides"
+  #  - TidyverseShower 2018: "TidyverseShower"
 
 # --- Logo --- #
 
