@@ -8,7 +8,7 @@ share-img: "/images/*"
 
 
 
-###Konzept
+### Konzept
 
 Bevor Computer ein Problem lösen können, müssen das Problem und die Art und Weise, wie es gelöst werden kann, verstanden werden. Die Dekomposition (Zerlegung) hilft dabei, indem komplexe Probleme in besser handhabbare Teile zerlegt werden. Dabei wird ein komplexes Problem oder System in kleinere Teile zerlegt, die überschaubarer und verständlicher sind. Die kleineren Teile können dann untersucht und gelöst oder einzeln entworfen werden, da sie einfacher zu bearbeiten sind. Wenn ein Baumstamm zu schwer zum Abtransport ist, wird er ja auch in Teilstücke zerlegt.
 
@@ -46,7 +46,7 @@ Ein Prozess besteht aus einer Reihe von Schritten, die ausgeführt werden müsse
 * Wenn wir ein unbekanntes Gericht probieren und anhand des Geschmacks mehrere Zutaten identifizieren, zerlegen wir dieses Gericht in seine einzelnen Zutaten.
 * Wenn wir jemandem eine Wegbeschreibung zu unserem Haus geben, zerlegen wir den Prozess, von einem Ort zum anderen zu gelangen (z. B. Stadt, Autobahn usw.). siehe Wegbeschreibungen bei Google Maps
 * Wenn wir ein Kursprojekt in mehrere Schritte unterteilen, zerlegen wir die Aufgabe in kleinere, besser verwaltbare Unteraufgaben, ähnliche gilt für das Anlegen einzelner Kapitel in einem Dokument.
-* In der Mathematik können wir eine Zahl wie 256,37 wie folgt zerlegen: 2*10<sup>2</sup>+5*10<sup>1</sup>+6*10<sup>0</sup>+3*10<sup>-1</sup>+7*10<sup>-2</sup>
+* In der Mathematik können wir eine Zahl wie 256,37 wie folgt zerlegen: 2\*10<sup>2</sup>+5\*10<sup>1</sup>+6\*10<sup>0</sup>+3\*10<sup>-1</sup>+7\*10<sup>-2</sup>
 
 
 [comment]: # (This actually is the most platform independent comment)
