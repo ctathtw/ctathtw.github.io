@@ -4,8 +4,6 @@ title: Abstraktion und Generalisierung
 subtitle: Ziele
 show-avatar: false
 share-img: "/images/AbstraktionFig.JPG"
-share-img:"/images/Spirographen.JPG"
-share-img:"/images/DecompositionMeal.JPG"
 --- 
 
 
