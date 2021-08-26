@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Abstraktion und Generalisierung
+title: Abstraktion
 subtitle: Ziele
 show-avatar: false
 share-img: "/images/AbstraktionFig.JPG"
