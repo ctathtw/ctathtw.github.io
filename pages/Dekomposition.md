@@ -51,4 +51,5 @@ Ein Prozess besteht aus einer Reihe von Schritten, die ausgeführt werden müsse
 
 ![Abstraktion](/images/AbstraktionFig.jpg)
 
-<center><img src="/images/AbstraktionFig.jpg" width="50%" height="50%"/></center>
+[comment]: # (This actually is the most platform independent comment)
+[comment]: # ( <center><img src="/images/AbstraktionFig.jpg" width="50%" height="50%"/></center> )
