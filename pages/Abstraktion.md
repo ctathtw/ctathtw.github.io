@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Abstraktion und Generalisierung
+title: Abstraktion 
 subtitle: Ziele
 show-avatar: false
 share-img: "/images/AbstraktionFig.JPG"
@@ -10,7 +10,7 @@ share-img: "/images/AbstraktionFig.JPG"
 
 (still in progress)
 
-## Abstraktion und Generalisierung
+## Abstraktion 
 
 ### Konzept
 Bei der Abstraktion werden die relevanten Informationen identifiziert und extrahiert, um die Hauptidee zu definieren, indem die Merkmale herausgefiltert werden, die nicht relevant sind. Damit konzentrieren wir uns auf die Merkmale, die wir benötigen um das Problem zu lösen.
