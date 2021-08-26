@@ -1,11 +1,21 @@
 ---
 layout: post
-title: Abstraktion
-subtitle: die erste von 4 Methoden
+title: Programmablaufplan
+subtitle: PAP
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [Abstraktion, Modellierung]
+share-img: /images/PAPBeispiel.PAP
+tags: [PAP, PAPDesigner]
 ---
 
-Abstarktion, abstrakt, Vereinfachung
+Programmablaufpläne (auch Flow diagrams, Flussdiagramme) sind eine Grafische Form zur Verdeutlichung eines Algorithmus. In erster Linie veranschaulichen sie den Algorithmus in übersichtlicher Form, sie dienen aber auch der Kommunikation mit anderen Teammitgliedern. Die Elemente von Programmablaufplänen sind sogar in einer DIN-Norm 66001 standardisiert.
+
+<center><img src="/images/PAPBeispiel.JPG" width="50%" height="50%"/></center>
+
+Abb.: Beispiel eines mit dem PAPDesigner erstellten Programmablaufplans
+Ein sehr hilfreiches Tool zur Erstellung von PAPs ist der
+[2] PAPDesigner http://friedrich-folkmann.de/papdesigner/Hauptseite.html
+
+Dieser wurde von einem Berufsschullehrer für den Informatik-Unterricht entwickelt und wurde kostenlos zur Lehre bereitgestellt.
+
+Natürlich existieren auch gleichwertige online Tools zur Diagrammerstellung wie https://www.diagrammeditor.de/
