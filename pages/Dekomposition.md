@@ -46,7 +46,7 @@ Ein Prozess besteht aus einer Reihe von Schritten, die ausgeführt werden müsse
 * Wenn wir ein unbekanntes Gericht probieren und anhand des Geschmacks mehrere Zutaten identifizieren, zerlegen wir dieses Gericht in seine einzelnen Zutaten.
 * Wenn wir jemandem eine Wegbeschreibung zu unserem Haus geben, zerlegen wir den Prozess, von einem Ort zum anderen zu gelangen (z. B. Stadt, Autobahn usw.). siehe Wegbeschreibungen bei Google Maps
 * Wenn wir ein Kursprojekt in mehrere Schritte unterteilen, zerlegen wir die Aufgabe in kleinere, besser verwaltbare Unteraufgaben, ähnliche gilt für das Anlegen einzelner Kapitel in einem Dokument.
-* In der Mathematik können wir eine Zahl wie 256,37 wie folgt zerlegen: 2*102+5*101+6*100+3*10-1+7*10-2
+* In der Mathematik können wir eine Zahl wie 256,37 wie folgt zerlegen: 2*10<sup>2</sub>+5*10<sup>1</sub>+6*10<sup>0</sub>+3*10<sup>-1</sub>+7*10<sup>-2</sub>
 
 
 ![Abstraktion](/images/AbstraktionFig.jpg)
