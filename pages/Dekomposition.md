@@ -50,3 +50,5 @@ Ein Prozess besteht aus einer Reihe von Schritten, die ausgeführt werden müsse
 
 
 ![Abstraktion](/images/images/AbstraktionFig.jpg)
+
+<center><img src="/images/AbstraktionFig.jpg" width="50%" height="50%"/></center>
