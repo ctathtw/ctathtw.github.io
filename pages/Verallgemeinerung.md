@@ -8,7 +8,7 @@ share-img: "/images/*"
 
 <center><img src="/images/AbstraktionFig.jpg" width="50%" height="50%"/></center>
 
-(still in progress)
+(still in progress, Bild ersetzen)
 
 ## Verallgemeinerung (Generalisierung)
 
