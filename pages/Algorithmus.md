@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Abstraktion 
+title: Algorithmen 
 subtitle: Ziele
 show-avatar: false
 share-img: "/images/*"
