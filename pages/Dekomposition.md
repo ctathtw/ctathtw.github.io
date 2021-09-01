@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Abstraktion
+title: Dekomposition
 subtitle: Ziele
 show-avatar: false
 share-img: "/images/*"
